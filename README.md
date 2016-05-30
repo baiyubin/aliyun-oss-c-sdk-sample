@@ -16,7 +16,7 @@
 > 注意：
 > - oss-c-sdk-sample只支持WIN32(x86)，不支持x64。
 > - 编译oss-c-sdk-sample前，请修改Endpoint/AccessKeyID/AccessKeySecret/BucketName为正确配置。
-> - 运行oss-c-sdk-sample前，请做如下配置。在Sulution Explore中选择工程aliyun-oss-c-sdk，右击选择Property，在oss-c-sdk-sample Property Pages中配置Configuration Properties -> Debugging -> Environment为PATH=..\oss-c-sdk\lib\Release\;%PATH%。
+> - 运行oss-c-sdk-sample前，请做如下配置。在Sulution Explore中选择工程oss-c-sdk-sample，右击选择Property，在oss-c-sdk-sample Property Pages中配置Configuration Properties -> Debugging -> Environment为PATH=..\oss-c-sdk\lib\Release\;%PATH%。
 
 ## 作者
 - Yubin Bai
