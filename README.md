@@ -19,11 +19,7 @@
 > - 运行oss-c-sdk-sample前，请做如下配置。在Sulution Explore中选择工程aliyun-oss-c-sdk，右击选择Property，在oss-c-sdk-sample Property Pages中配置Configuration Properties -> Debugging -> Environment为PATH=..\oss-c-sdk\lib\Release\;%PATH%。
 
 ## 作者
-> - Yubin Bai
+- Yubin Bai
 
 ## License
-> - MIT
-
-
-
-
+- MIT
